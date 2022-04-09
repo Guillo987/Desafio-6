@@ -262,7 +262,7 @@ main {
 /*preguntas-frecuentes*/
 
 .contenedor4 {
-    height: 100vh;
+    height: 100%;
     display: grid;
     grid-template-areas: "header header"
         "nav nav"
