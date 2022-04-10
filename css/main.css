@@ -297,6 +297,11 @@ main {
     padding: 1rem
 }
 
+textarea {
+    height: 5rem;
+    width: 15rem;
+}
+
 .terms {
     padding: 1rem;
 }
